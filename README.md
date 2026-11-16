@@ -1,3 +1,5 @@
-# Middlesex Maker Fest Proposal
+# Middlesex Maker Fest — proposal website
 
-Website proposal for Middlesex Maker Fest — A FUBAR Labs Production.
+Open `index.html` locally or host this directory with GitHub Pages from `main` / `(root)`.
+
+Festival photographs are from earlier Sussex County Maker Fest activities. Five third-party YouTube videos are illustrative examples, not confirmed Middlesex event participants. The K-9 mascot is sourced from the original Maker Quest repository and requires an internet connection.
